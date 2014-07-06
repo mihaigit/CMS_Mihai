@@ -1,0 +1,12 @@
+body{background: url('../images/bg.png'); padding:0; margin:0;}
+
+#header {color:blue; width:100%; background:url('../images/bg.png'); height:100px; border-bottom:1px ;}
+
+#sidebar{width:250px; float:left; background: url('../images/bn.png'); border-right:1px solid blue; height:600px;}
+
+#sidebar h2 {text-align:left; font-size:21px; color:brown; font-family: tahoma;}
+
+#header h1{color:white; font-size:3em; font-family:Tahoma; text-align:center; padding-top:20px;}
+
+
+#welcome {margin:10px; padding:10px; text-align:center; color:white;}
